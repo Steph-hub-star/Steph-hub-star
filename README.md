@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steph-hub-star
-- 🧑‍💻 I’m interested in learning becoming a software engineering 
-- 🌱 I’m currently learning python 
-- 🤝 I’m looking to collaborate on any python projects 
+- 🧑‍💻 I’m interested in learning and becoming a data scientist 
+- 🌱 I’m currently doing a degree program in Data science and informatics 
+- 🤝 I’m looking to collaborate on any data science projects 
 - 📫 How to reach me takunyanganii@gmail.com 
 
 <!---
